@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Yudi, I am interested in studying the field of data, especially data analysis and data science.
+
+- 🌱 Currently I am studying Informatics Engineering at [Pelita Bangsa University](https://pelitabangsa.ac.id/) 
+- 🔭 I just created a program to analyze diseases using Naive Bayes Theory, check it out [disease analysis](https://sistem-diagnosa-penyakit.netlify.app/)
+
 <!--
 **Yudi-Gnwn/Yudi-Gnwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
