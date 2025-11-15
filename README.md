@@ -9,11 +9,11 @@ My name is Yudi, I am interested in studying the field of data, especially data 
 
 #### skills
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,py,pytorch,r,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,py,pytorch,r,figma&theme=light)]()
 
 #### connect with me
 
-[![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/gnwnn.yud/)
 <!--
 **Yudi-Gnwn/Yudi-Gnwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
