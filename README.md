@@ -1,10 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Yudi, I am interested in studying the field of data, especially data analysis and data science.
 
 - 🌱 Currently I am studying Informatics Engineering at [Pelita Bangsa University](https://pelitabangsa.ac.id/) 
-- 🔭 I just created a program to analyze diseases using Naive Bayes Theory, check it out [disease analysis](https://sistem-diagnosa-penyakit.netlify.app/)<br/>
-
+- 🔭 I just created a program to analyze diseases using Naive Bayes Theory, check it out [disease analysis](https://sistem-diagnosa-penyakit.netlify.app/)
 
 
 #### 💻 Tech Stack
@@ -18,7 +17,7 @@ My name is Yudi, I am interested in studying the field of data, especially data 
 
 
 #### 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=Yudi-Gnwn&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Yudi-Gnwn&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yudi-Gnwn&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
