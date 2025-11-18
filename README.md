@@ -8,7 +8,7 @@ My name is Yudi, I am interested in studying the field of data, especially data 
 
 #### 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,py,pytorch,r,figma&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,py,r,gcp,github,git&theme=light)]()
 
 #### 🌐 connect with me
 
