@@ -21,7 +21,7 @@ My name is Yudi, I am interested in studying the field of data, especially data 
 ![](https://nirzak-streak-stats.vercel.app/?user=Yudi-Gnwn&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yudi-Gnwn&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#### 🏆 Trophies
+<!-- #### 🏆 Trophies -->
 ![](https://github-profile-trophy.vercel.app/?username=Yudi-Gnwn&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
