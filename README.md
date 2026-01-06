@@ -12,7 +12,7 @@ My name is Yudi, I am interested in studying the field of data, especially data 
 #### 🌐 connect with me
 
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/gnwnn.yud/)
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](www.linkedin.com/in/yudigunawan-elevatework)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/yudigunawan-elevatework)
 
 
 <!--
