@@ -15,6 +15,11 @@ My name is Yudi, I am interested in studying the field of data, especially data 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/yudigunawan-elevatework)
 
 
+#### 🐍 Snake Contribution Graph
+
+![github contribution grid snake animation](https://github.com/Yudi-Gnwn/Yudi-Gnwn/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **Yudi-Gnwn/Yudi-Gnwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
