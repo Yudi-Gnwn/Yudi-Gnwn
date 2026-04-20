@@ -1,5 +1,5 @@
-- 🌱 Currently I am studying Informatics Engineering at [Pelita Bangsa University](https://pelitabangsa.ac.id/) 
-- 🔭 I just created a program to analyze diseases using Naive Bayes Theory, check it out [Here!](https://sistem-diagnosa-penyakit.netlify.app/)
+- 🌱 Currently I am studying Informatics Engineering at [Pelita Bangsa University](https://pelitabangsa.ac.id/)
+- 🔭 I have created a program to maximize stock returns and adjust risk for stock portfolios, [check here!](https://github.com/Yudi-Gnwn/stock-porto-analytics.git)
 
 #### 💻 Tech Stack
 
